@@ -1,50 +1,69 @@
-# Welcome to your Expo app 👋
+<div align="center">
+  <br />
+    <a href="" target="_blank">
+      <img src="https://github.com/stskdrv/cam-app/assets/banner" alt="Project Banner">
+    </a>
+  <br />
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+  <div align="center">
+    <img align="center" src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react native" />
+    <img align="center" src="https://img.shields.io/badge/-Expo-JS?style=for-the-badge&logoColor=white&logo=expo&color=000000" alt="expo" />
+  </div>
 
-## Get started
+  <h2 align="center">Expo Camera Screen Tutorial</h3>
 
-1. Install dependencies
+   <div align="center">
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@OneDevStan/videos" target="_blank"><b>Code with Stan</b></a> YouTube. Join the family!
+    </div>
+</div>
 
-   ```bash
-   npm install
-   ```
+## 🚨 Tutorial
 
-2. Start the app
+This repository contains the code corresponding to an tutorial available on my YouTube channel, <a href="https://www.youtube.com/@OneDevStan/videos"  target="_blank"><b>Code with Stan</b></a>. 
 
-   ```bash
-    npx expo start
-   ```
+If you prefer visual learning, this is the perfect resource for you. Follow this tutorial to learn how to build project like these step-by-step in a beginner-friendly manner!
 
-In the output, you'll find options to open the app in a
+## <a name="introduction">🤖 Introduction</a>
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+By developing this project, you will gain hands-on experience in using expo-camera module to build any photo creating mobile apps.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-## Get a fresh project
+- React-Native
+- Expo
+- Expo Cli
 
-When you're ready, run:
+## <a name="quick-start">🤸 Quick Start</a>
+
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
 
 ```bash
-npm run reset-project
+git clone git@github.com:stskdrv/cam-app.git
+cd cam-app
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+**Installation**
 
-## Learn more
+Install the project dependencies using npm:
 
-To learn more about developing your project with Expo, look at the following resources:
+```bash
+npm install
+```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+**Running the Project**
 
-## Join the community
+```bash
+npx expo start
+```
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Scan QR code from runnig terminal with your smartphone with installed Expo go app to view the project.
