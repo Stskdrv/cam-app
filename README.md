@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="" target="_blank">
-      <img src="https://github.com/stskdrv/cam-app/assets/banner" alt="Project Banner">
+      <img src="https://github.com/Stskdrv/cam-app/blob/main/assets/banner.png?raw=true" alt="Project Banner">
     </a>
   <br />
 
